@@ -1,0 +1,344 @@
+{
+  "report_metadata": {
+    "title": "Comprehensive Market Size Analysis: Educational Technology & Training Markets 2024-2025",
+    "collection_date": "2024-08-29",
+    "geographic_focus": ["North America", "Europe"],
+    "sources": ["Grand View Research", "IDC", "MarketsandMarkets", "Gartner", "Deloitte", "Mordor Intelligence", "Technavio", "Market Research Future", "IMARC Group"],
+    "currency": "USD"
+  },
+  "market_segments": {
+    "adaptive_learning_market": {
+      "market_overview": "Adaptive learning systems that personalize educational content based on individual learner performance and preferences",
+      "2024_market_size": {
+        "value": 4.94,
+        "unit": "billion_usd",
+        "sources": ["Multiple research firms consensus"]
+      },
+      "2025_projections": {
+        "value": 5.82,
+        "unit": "billion_usd",
+        "growth_rate": "17.8%"
+      },
+      "long_term_projections": {
+        "2027": {
+          "value": 8.25,
+          "unit": "billion_usd"
+        },
+        "2030": {
+          "value": 14.12,
+          "unit": "billion_usd"
+        }
+      },
+      "cagr_2024_2030": "19.9-23.1%",
+      "regional_breakdown": {
+        "north_america": {
+          "market_share_2024": "40%",
+          "value_2024": 1.98,
+          "unit": "billion_usd",
+          "growth_drivers": ["Advanced educational technology adoption", "Strong infrastructure", "Digital learning investments"]
+        },
+        "europe": {
+          "market_share_2024": "25%",
+          "value_2024": 1.24,
+          "unit": "billion_usd",
+          "position": "Second-largest market"
+        }
+      },
+      "key_segments": {
+        "technology": ["Machine Learning", "Natural Language Processing", "Analytics"],
+        "end_users": ["K-12", "Higher Education", "Corporate Training"],
+        "deployment": ["Cloud-based", "On-premises"]
+      },
+      "market_drivers": [
+        "Increasing demand for personalized education",
+        "Advancements in AI and ML technologies", 
+        "Shift towards online learning platforms",
+        "Need for scalable education solutions"
+      ]
+    },
+    "micro_learning_market": {
+      "market_overview": "Bite-sized learning modules delivered through digital platforms for efficient skill acquisition",
+      "2024_market_size": {
+        "value": 2.6,
+        "unit": "billion_usd",
+        "sources": ["IMARC Group", "Mordor Intelligence", "Verified Market Research"]
+      },
+      "2025_projections": {
+        "value": 2.96,
+        "unit": "billion_usd",
+        "growth_rate": "13.8%"
+      },
+      "long_term_projections": {
+        "2030": {
+          "value": 5.49,
+          "unit": "billion_usd"
+        },
+        "2032": {
+          "value": 8.22,
+          "unit": "billion_usd"
+        }
+      },
+      "cagr_2024_2032": "11.23-22.31%",
+      "regional_breakdown": {
+        "north_america": {
+          "value_2023": 1.65,
+          "projected_2032": 10.99,
+          "unit": "billion_usd",
+          "market_position": "Largest market share in 2025"
+        },
+        "asia_pacific": {
+          "market_share_2024": "32.8%",
+          "value_2023": 0.98,
+          "projected_2032": 4.82,
+          "unit": "billion_usd"
+        },
+        "europe": {
+          "value_2023": 1.2,
+          "projected_2032": 8.24,
+          "unit": "billion_usd"
+        }
+      },
+      "adoption_rates": {
+        "mobile_learning": "94% of employees prefer companies investing in L&D",
+        "completion_rates": "35% increase with mobile-first microlearning solutions",
+        "smartphone_users_2025": "7.33 billion globally"
+      },
+      "market_drivers": [
+        "Increasing demand for flexible learning solutions",
+        "Growth in mobile device usage",
+        "Need for skill-based training",
+        "Corporate workforce mobility requirements"
+      ]
+    },
+    "corporate_training_ld_market": {
+      "market_overview": "Enterprise learning and development programs including digital training and AI-powered solutions",
+      "2024_market_size": {
+        "value": 361.5,
+        "unit": "billion_usd",
+        "year_base": 2023
+      },
+      "2025_projections": {
+        "budget_increase": "48% of L&D professionals expect budget increases",
+        "comparison_2024": "33% expected increases in 2024"
+      },
+      "long_term_projections": {
+        "2035": {
+          "value": 805.6,
+          "unit": "billion_usd"
+        }
+      },
+      "cagr_2024_2035": "7%",
+      "ai_powered_segment": {
+        "ai_market_size_2024": 235,
+        "projected_2028": 631,
+        "unit": "billion_usd",
+        "roi_metrics": {
+          "average_roi": "3.7x per $1 invested",
+          "top_performers_roi": "10.3x",
+          "usage_growth": "55% in 2023 to 75% in 2024"
+        },
+        "generative_ai_spending": {
+          "asia_pacific_2027": 26,
+          "unit": "billion_usd",
+          "cagr_2022_2027": "95.4%"
+        }
+      },
+      "digital_training_segment": {
+        "skills_gap": "75% of employers struggle to find right talent",
+        "skills_based_practices": "90% of executives implementing",
+        "power_skills_focus": "66% of jobs will require power skills by 2030"
+      },
+      "regional_insights": {
+        "global_coverage": ["North America", "Europe", "Asia-Pacific"],
+        "highest_talent_scarcity": "17-year high globally",
+        "focus_regions": "Advanced economies in Asia, Europe, North America"
+      },
+      "market_drivers": [
+        "Rapid technological advancement",
+        "Upskilling and reskilling needs",
+        "Talent development initiatives",
+        "Regulatory compliance requirements",
+        "Remote work adaptation"
+      ]
+    },
+    "edtech_market_overall": {
+      "market_overview": "Comprehensive educational technology market including AI/ML-powered learning solutions",
+      "2024_market_size": {
+        "value": 163.49,
+        "unit": "billion_usd",
+        "source": "Grand View Research"
+      },
+      "2025_projections": {
+        "estimated_value": 185.2,
+        "unit": "billion_usd"
+      },
+      "long_term_projections": {
+        "2030": {
+          "value": 348.41,
+          "unit": "billion_usd"
+        }
+      },
+      "cagr_2025_2030": "13.3%",
+      "ai_ml_segment": {
+        "2024_market_size": {
+          "value": 5.88,
+          "unit": "billion_usd",
+          "source": "Grand View Research"
+        },
+        "2025_projections": {
+          "value": 6.90,
+          "unit": "billion_usd",
+          "source": "Mordor Intelligence"
+        },
+        "2030_projections": {
+          "grand_view": 32.27,
+          "mordor": 41.01,
+          "unit": "billion_usd"
+        },
+        "cagr_ai_segment": "31.2-42.83%",
+        "technology_breakdown": {
+          "machine_learning_share": "64.7%",
+          "nlp_segment": "Fastest growing segment"
+        }
+      },
+      "regional_breakdown": {
+        "north_america": {
+          "market_share_2024": "35.62%",
+          "ai_education_share": "36-38.8%",
+          "position": "Market leader"
+        },
+        "asia_pacific": {
+          "ai_cagr": "44.20%",
+          "position": "Highest growth momentum"
+        },
+        "europe": {
+          "position": "Significant market presence",
+          "growth_trend": "Steady expansion"
+        }
+      },
+      "application_segments": {
+        "virtual_facilitators": {
+          "market_share": "35.40%",
+          "position": "Largest segment"
+        },
+        "adaptive_assessment": {
+          "cagr": "46.70%",
+          "position": "Fastest growing"
+        }
+      },
+      "market_drivers": [
+        "Digital literacy policy mandates",
+        "Cloud adoption acceleration",
+        "Personalized learning demand",
+        "AI and data analytics integration",
+        "Educational digital transformation"
+      ]
+    },
+    "developer_training_upskilling_market": {
+      "market_overview": "Technical training platforms, coding bootcamps, and developer upskilling programs",
+      "2024_market_size": {
+        "coding_bootcamp_value": 1.795,
+        "unit": "billion_usd",
+        "broader_estimate": 4.94
+      },
+      "2025_projections": {
+        "growth_estimate": 2.25,
+        "unit": "billion_usd"
+      },
+      "long_term_projections": {
+        "2028": {
+          "growth_addition": 2.8,
+          "unit": "billion_usd"
+        },
+        "2029": {
+          "growth_addition": 3.98,
+          "unit": "billion_usd"  
+        },
+        "2033": {
+          "value": 7.97,
+          "unit": "billion_usd"
+        },
+        "2034": {
+          "value": 14.86,
+          "unit": "billion_usd"
+        }
+      },
+      "cagr_range": "10.7-30.3%",
+      "demand_drivers": {
+        "software_engineer_demand_2031": "27.7 million",
+        "job_growth_2026": "24%",
+        "it_employment_growth_2030": "13%"
+      },
+      "technology_focus": {
+        "ai_ml_blockchain_bootcamps": "41% of new 2023-2024 bootcamps",
+        "in_demand_languages": ["Java", "Python", "JavaScript", "HTML", "CSS"],
+        "specialized_sectors": "22% focus on healthcare, legal, fintech coding"
+      },
+      "learning_formats": {
+        "online_dominance": "60% market share in 2023",
+        "part_time_offerings": "36% are part-time, self-paced",
+        "employer_acceptance": "68% of tech employers hire bootcamp grads"
+      },
+      "market_segments": {
+        "full_stack_development": {
+          "2024_value": 1.2,
+          "unit": "billion_usd"
+        },
+        "data_science": {
+          "2024_value": 0.9,
+          "unit": "billion_usd"
+        },
+        "web_development": {
+          "2024_value": 0.7,
+          "unit": "billion_usd"
+        },
+        "mobile_development": {
+          "2024_value": 0.6,
+          "unit": "billion_usd"
+        }
+      },
+      "regional_insights": {
+        "us_market": {
+          "2022_revenue": 727,
+          "unit": "million_usd",
+          "trend": "Rapidly expanding"
+        }
+      },
+      "market_drivers": [
+        "Accelerating demand for tech talent",
+        "AI and emerging technology adoption",
+        "Rapid upskilling and reskilling needs",
+        "University-industry partnerships",
+        "Employer recognition of alternative credentials"
+      ]
+    }
+  },
+  "market_summary": {
+    "total_addressable_markets": {
+      "edtech_overall_2024": 163.49,
+      "corporate_training_2024": 361.5,
+      "ai_education_2024": 5.88,
+      "adaptive_learning_2024": 4.94,
+      "micro_learning_2024": 2.6,
+      "developer_training_2024": 1.8,
+      "unit": "billion_usd"
+    },
+    "growth_trends": {
+      "highest_growth_segment": "AI in Education (31-43% CAGR)",
+      "strong_growth_segments": ["Adaptive Learning (19-23% CAGR)", "Developer Training (18-30% CAGR)"],
+      "steady_growth_segments": ["Micro-learning (11-22% CAGR)", "EdTech Overall (13% CAGR)"]
+    },
+    "regional_leadership": {
+      "north_america": "Dominates most segments with 35-40% market share",
+      "europe": "Strong secondary market presence",
+      "asia_pacific": "Fastest growth rates, especially in AI adoption"
+    },
+    "key_market_drivers": [
+      "AI and ML technology advancement",
+      "Personalization demand in education",
+      "Skills gap and talent shortage",
+      "Digital transformation acceleration",
+      "Remote work and mobile learning adoption"
+    ]
+  }
+}

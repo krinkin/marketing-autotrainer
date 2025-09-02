@@ -37,9 +37,9 @@
 **Unique Positioning**: The platform addresses an underserved niche combining deep technical document analysis with automated practical exercise generation and task completion validation systems.
 
 **Priority Segments**:
-1. **Developers & IT Specialists (B2C)** - $15-35/month willingness to pay
-2. **Corporate L&D Departments (B2B)** - $774/employee average budget
-3. **Students & Self-learners (B2C)** - $5-20/month price sensitivity
+- **Developers & IT Specialists (B2C)** - $15-35/month willingness to pay
+- **Corporate L&D Departments (B2B)** - $774/employee average budget
+- **Students & Self-learners (B2C)** - $5-20/month price sensitivity
 
 **Recommended Strategy**: Phased market entry focusing on developers (B2C) → SME teams (B2B) → Enterprise L&D, utilizing freemium model with segment-specific pricing.
 
@@ -108,7 +108,7 @@
 #### 3.2.2 Integration Requirements
 
 **Developer/IT Segment**:
-- IDE integrations (VS Code, IntelliJ IDEA)
+- IDE integrations (JetBrains IDE, VS Code)
 - Version control systems (Git, GitHub, GitLab)
 - Documentation platforms (GitBook, ReadTheDocs)
 - CI/CD pipeline integration
@@ -116,21 +116,20 @@
 **Educational Segment**:
 - LMS integrations (Canvas, Blackboard, Moodle)
 - Student Information Systems
-- OAuth 2.0 authentication
 - Grade passback functionality
 
-**Corporate Segment**:
-- HRIS integrations (Workday, SAP SuccessFactors)
-- LMS platforms (Cornerstone, Docebo)
+**Corporate Segment (#todo REMOVE?)**:
+- #todo REMOVE? HRIS integrations (Workday, SAP SuccessFactors)
+- #todo REMOVE? LMS platforms (Cornerstone, Docebo)
 - Microsoft Teams and Google Workspace
 - SCORM/xAPI compliance
 
-#### 3.2.3 Compliance Standards
+#### 3.2.3 Compliance Standards (#todo far future)
 
 **Data Privacy**:
 - GDPR (EU citizens' data processing)
 - FERPA (US educational institutions)
-- COPPA (children under 13)
+- #todo REMOVE? COPPA (children under 13)
 - State privacy laws (CCPA, emerging regulations)
 
 **Security Standards**:
@@ -139,7 +138,7 @@
 - Data encryption at rest and in transit
 - Regular penetration testing
 
-**Accessibility**:
+**Accessibility #todo REMOVE? **:
 - WCAG 2.1 AA compliance (deadline: April 24, 2026)
 - Section 508 (US federal requirements)
 - Multi-language support
@@ -175,10 +174,11 @@
 
 | Platform | Document Processing | Exercise Generation | Validation System | Pricing Range | Target Market |
 |----------|-------------------|-------------------|-----------------|---------------|---------------|
-| **Auto-trainer** | ✅ Deep technical | ✅ Practical tasks | ✅ Automated | $12-25/month | Developer-focused |
-| Coursebox AI | ⚠️ Generic | ⚠️ Quiz-only | ❌ Limited | $10/month | General B2B/B2C |
-| Mindsmith | ⚠️ Standard | ⚠️ Basic exercises | ❌ Manual | $39-75/month | Enterprise |
-| Synthesia | ❌ Video-only | ❌ No exercises | ❌ None | Enterprise | Enterprise video |
+| **Auto-trainer** | Deep technical | Practical tasks | Automated | $12-25/month | Developer-focused |
+| Coursebox AI | Generic | Quiz-only | Limited | $10/month | General B2B/B2C |
+| Mindsmith | Standard | Basic exercises | Manual | $39-75/month | Enterprise |
+| Synthesia | Video-only | No exercises | None | Enterprise | Enterprise video |
+
 
 ### 4.2 Indirect Competitors
 
@@ -209,16 +209,16 @@
 ### 4.3 Competitive Gaps & Opportunities
 
 **Identified Market Gaps**:
-1. Limited focus on practical exercise generation vs. content creation only
-2. Weak task completion verification systems
-3. Generic personalization rather than deep document analysis
-4. Developer-specific mid-tier pricing gap ($20-30/month)
+- Limited focus on practical exercise generation vs. content creation only
+- Weak task completion verification systems
+- Generic personalization rather than deep document analysis
+- Developer-specific mid-tier pricing gap ($20-30/month)
 
 **Auto-trainer's Differentiation**:
-1. Deep technical document comprehension
-2. Automated practical exercise generation (not just quizzes)
-3. Task completion validation system
-4. Personalized micro-learning paths based on document analysis
+- Deep technical document comprehension
+- Automated practical exercise generation (not just quizzes)
+- Task completion validation system
+- Personalized micro-learning paths based on document analysis
 
 ---
 
@@ -264,18 +264,6 @@
 - **WTP**: $15-25/month with potential employer reimbursement
 - **Decision Factors**: Structured progression, affordability, career relevance
 
-#### 5.1.3 Current Spending Patterns
-- **Pluralsight**: $29-45/month individual subscriptions
-- **O'Reilly**: High perceived value despite cost
-- **Udemy**: $16.58/month subscription model
-- **GitHub Copilot**: $10/month (55% productivity increase)
-
-#### 5.1.4 Go-to-Market Approach
-1. **Community Engagement**: Developer forums, GitHub, Stack Overflow
-2. **Content Marketing**: Technical blog posts, documentation examples
-3. **Integration Strategy**: VS Code extensions, GitHub apps
-4. **Freemium Conversion**: Feature limits drive upgrade after 2-3 months
-
 ### 5.2 Students & Self-learners Segment
 
 #### 5.2.1 Market Overview
@@ -283,22 +271,54 @@
 - **Characteristics**: Budget-constrained, price-sensitive, flexibility-focused
 - **Key Trends**: Preference for freemium models, mobile-first learning
 
-#### 5.2.2 Budget Analysis
-- **Spending Power**: 60% willing to pay $5 for educational apps
-- **Subscription Tolerance**: $5-20/month typical range
-- **Discount Expectations**: Student discounts 20-50% standard
-- **Payment Preferences**: Monthly over annual due to cash flow
+#### 5.2.2 Persona Profiles
 
-#### 5.2.3 Competitive Landscape
-- **Udemy Personal**: $16.58/month
-- **Coursebox Free**: $0 (3 courses limit)
-- **Mindsmith Free**: $0 (5 AI lessons, 2 shared)
+**Primary Student Persona: Emma Rodriguez - CS Junior**
+- **Age**: 19-22
+- **Income**: $15,000-20,000/year (part-time + loans)
+- **Pain Points**: 
+  - Tight budget constraints ($10-15/month max)
+  - Dense theoretical textbooks hard to digest
+  - Need practical skills for job market
+  - Balancing work, study, and social life
+- **Learning Preferences**: Mobile-first, interactive content, bite-sized lessons, peer collaboration
+- **WTP**: $8-12/month with student discount
+- **Decision Factors**: Free trial availability, career relevance, social proof from peers
 
-#### 5.2.4 Strategy Recommendations
-- **Freemium Model**: Generous free tier with upgrade incentives
-- **Student Discounts**: 33% off with .edu email verification
-- **Mobile-First**: Progressive web app with offline capabilities
-- **Gamification**: Progress tracking, achievements, social features
+**Secondary Student Persona: Marcus Chen - High-Achieving Data Science Student**
+- **Age**: 18-21
+- **Income**: $12,000-18,000/year (family + campus job)
+- **Pain Points**:
+  - Competitive academic environment pressure
+  - Need edge for top-tier internships
+  - Information overload from multiple sources
+- **Learning Preferences**: Advanced features, analytics tracking, integration with academic tools
+- **WTP**: $15-25/month if proven ROI for grades/career
+- **Decision Factors**: Competitive advantage, measurable progress, university integration
+
+
+**Primary Educator Persona: Dr. Jennifer Walsh - CS Associate Professor**
+- **Age**: 35-45
+- **Income**: $75,000-95,000/year
+- **Pain Points**:
+  - 15+ hours/week on grading and prep
+  - Low student engagement in theoretical topics
+  - Cannot provide individual attention to 150+ students
+  - IT approval process delays for new tools
+- **Teaching Preferences**: Time-saving automation, engagement tools, practical application bridges
+- **WTP**: $20-30/month personal, $2,000-5,000/year departmental
+- **Decision Factors**: Measurable learning outcomes, time savings, student satisfaction improvement
+
+**Secondary Educator Persona: Prof. David Kim - ML Research Professor**
+- **Age**: 40-50
+- **Income**: $90,000-120,000/year + grants
+- **Pain Points**:
+  - Need cutting-edge tools for advanced courses
+  - Research opportunities in educational technology
+  - Preparing students for industry AI roles
+- **Teaching Preferences**: Innovation-first, detailed analytics, research potential
+- **WTP**: $5,000-15,000/year with grant funding
+- **Decision Factors**: Innovation level, research data generation, scalability, academic credibility
 
 ### 5.3 L&D Departments Segment
 
@@ -307,30 +327,31 @@
 - **Budget Trends**: 48% expect budget increases in 2025 vs 33% in 2024
 - **AI Adoption**: 55% to 75% growth in AI training tool usage
 
-#### 5.3.2 Budget Analysis
-**Per-Employee Spending 2024**:
-- **Overall Average**: $774 per learner (down from $954 in 2023)
-- **Large Companies**: $398 per learner
-- **Small Companies**: $1,047 per employee
-- **Mid-size Companies**: $739 per learner
+#### 5.3.2 Persona Profiles
 
-**Budget Allocation Patterns**:
-- $500-1,000: 29% of companies
-- $1,000-3,000: 28% of companies  
-- Over $5,000: 15% of companies (high-investment segment)
-- Training Hours: 47 hours per employee in 2024
+**Primary Persona: Michael Thompson - L&D Director (Mid-Size Company)**
+- **Age**: 38-45
+- **Company**: 500-person SaaS company, $400K annual training budget
+- **Pain Points**:
+  - Must show clear ROI on every training dollar
+  - Developers don't complete generic training modules
+  - Can't create custom content for every technical role
+  - Difficult to track actual skill improvement vs completion rates
+- **Learning Preferences**: Scalable solutions, automated content creation, detailed analytics
+- **WTP**: $15-25/user/month for 50+ developers
+- **Decision Factors**: Measurable skill improvement, cost reduction vs external training, engineering leadership buy-in
 
-#### 5.3.3 ROI Requirements
-- **Expected Returns**: 3.7x ROI typical, top performers see 10.3x
-- **Payback Periods**: 6-18 months expected for training investments
-- **Success Metrics**: Skills acquisition, compliance completion, employee engagement
-
-#### 5.3.4 Volume Discount Expectations
-- **1-10 users**: List price
-- **11-50 users**: 10-15% discount  
-- **51-100 users**: 15-25% discount
-- **100+ users**: 25-40% discount + custom pricing
-- **Enterprise**: 30-50% discounts common for large deployments
+**Secondary Persona: Lisa Rodriguez - Head of People Development (Enterprise)**
+- **Age**: 42-50  
+- **Company**: 2,500+ employee tech company, $1.2M annual L&D budget
+- **Pain Points**:
+  - Managing training across multiple technical teams and skill levels
+  - Compliance requirements and audit trails
+  - Integration with existing HRIS and LMS systems
+  - Proving training impact on business outcomes
+- **Learning Preferences**: Enterprise-grade security, API integrations, white-label options, multi-language support
+- **WTP**: $10-15/user/month for 200+ users with volume discounts
+- **Decision Factors**: Security compliance (SOC2, GDPR), integration capabilities, vendor stability, executive reporting
 
 ---
 
@@ -381,7 +402,7 @@
 
 ### 6.2 Market Entry Sequencing
 
-#### 6.2.1 Phase 1: Developer B2C Focus (Months 1-6)
+#### 6.2.1 Phase 1: Developer B2C Focus
 **Objectives**:
 - Establish product-market fit with developer community
 - Build user base and gather feedback
@@ -390,7 +411,7 @@
 **Key Activities**:
 - Launch Free, Individual Starter, and Individual Pro tiers
 - Developer community engagement (GitHub, Stack Overflow)
-- IDE integrations (VS Code, IntelliJ IDEA)
+- IDE integrations (VS Code, JetBrains IDE)
 - Content marketing strategy
 
 **Success Metrics**:
@@ -398,7 +419,7 @@
 - 3% free-to-paid conversion rate
 - $25K monthly recurring revenue
 
-#### 6.2.2 Phase 2: SME Team Expansion (Months 7-12)
+#### 6.2.2 Phase 2: SME Team Expansion
 **Objectives**:
 - Scale to small and medium teams
 - Introduce collaboration features
@@ -415,7 +436,7 @@
 - 50 team accounts
 - $100K monthly recurring revenue
 
-#### 6.2.3 Phase 3: Enterprise Scale (Months 13-18)
+#### 6.2.3 Phase 3: Enterprise Scale
 **Objectives**:
 - Full enterprise feature rollout
 - Major customer acquisitions  
@@ -490,14 +511,14 @@
 ### 7.3 Weaknesses
 
 **Resource Constraints**:
-- Limited initial funding for marketing and sales
+- Limited  (or NO) initial funding for marketing and sales
 - Small team competing against well-funded competitors
 - Need for multiple technical integrations
 
 **Market Challenges**:
 - Education market typically slow to adopt new technologies
 - High customer acquisition costs in B2B segment
-- Complex compliance requirements across markets
+- Complex compliance requirements across markets (maybe not so important in b2c #todo )
 
 **Product Limitations**:
 - Dependent on quality of input documents
@@ -512,7 +533,7 @@
 - Open source alternatives could emerge
 
 **Market Risks**:
-- Economic downturn affecting training budgets
+- Economic downturn affecting training budgets (#todo extra research needed)
 - Regulatory changes in AI or education sectors
 - Shift in developer learning preferences
 
@@ -540,11 +561,11 @@
 
 ---
 
-## 8. SUCCESS METRICS & KPIS
+## 8. SUCCESS METRICS & KPIS (#todo for review)
 
 ### 8.1 Product-Market Fit Indicators
 
-#### 8.1.1 Leading Indicators (6-month targets)
+#### 8.1.1 Leading Indicators
 - **User Engagement**: 40%+ of free users active weekly
 - **Content Quality**: 4.5+ average rating for generated learning paths
 - **Time-to-Value**: Users complete first learning module within 24 hours
@@ -557,7 +578,7 @@
 
 ### 8.2 Business Performance KPIs
 
-#### 8.2.1 Revenue Metrics (12-month targets)
+#### 8.2.1 Revenue Metrics
 - **Monthly Recurring Revenue**: $100K MRR
 - **Annual Recurring Revenue**: $1.2M ARR
 - **Average Revenue Per User**: $25/month blended
@@ -605,7 +626,7 @@
 
 ---
 
-## 9. FINANCIAL PROJECTIONS
+## 9. FINANCIAL PROJECTIONS (#todo for review)
 
 ### 9.1 Revenue Model by Segment
 
@@ -646,22 +667,10 @@
 - Enterprise: 20 customers, 100 users avg → $600K MRR
 - **Total B2B MRR**: $830.4K
 
-### 9.2 Customer Acquisition Economics
 
-#### 9.2.1 Acquisition Costs by Segment
-- **Individual Users**: $25-50 CAC (content marketing, community)
-- **Teams**: $200-400 CAC (sales enablement, demos)
-- **Enterprise**: $2,000-5,000 CAC (dedicated sales, custom demos)
+### 9.2 Operating Expenses Projection
 
-#### 9.2.2 Unit Economics
-- **Individual Starter**: $144 LTV, $25 CAC → 5.8x LTV/CAC
-- **Individual Pro**: $300 LTV, $35 CAC → 8.6x LTV/CAC  
-- **Team**: $1,440 LTV, $300 CAC → 4.8x LTV/CAC
-- **Enterprise**: $9,000 LTV, $3,000 CAC → 3.0x LTV/CAC
-
-### 9.3 Operating Expenses Projection
-
-#### 9.3.1 Year 1 Operating Costs ($2.4M Total)
+#### 9.2.1 Year 1 Operating Costs ($2.4M Total)
 **Personnel (65% - $1.56M)**:
 - Engineering: $800K (4 engineers)
 - Product/Design: $300K (2 roles)  
@@ -683,7 +692,7 @@
 - Legal and compliance: $60K
 - Office and administrative: $60K
 
-#### 9.3.2 Funding Requirements
+#### 9.2.2 Funding Requirements
 **18-Month Runway**: $3.6M total funding needed
 - **Product Development**: $1.8M (50%)
 - **Go-to-Market**: $1.2M (33%)  
@@ -708,90 +717,8 @@
 
 ## 10. APPENDICES
 
-### 10.1 Detailed Persona Templates
 
-#### 10.1.1 Primary Developer Persona - Alex Chen
-
-**Demographics**:
-- Age: 32
-- Location: San Francisco, CA
-- Education: BS Computer Science
-- Experience: 8 years full-stack development
-- Income: $125,000/year
-
-**Day in the Life**:
-- 6:00 AM: Check GitHub notifications, review PRs
-- 9:00 AM: Daily standup, sprint planning  
-- 10:00 AM: Deep work on new feature development
-- 2:00 PM: Code reviews and technical documentation
-- 4:00 PM: Learning time - new frameworks or tools
-- 6:00 PM: Personal projects and open source contributions
-
-**Pain Points**:
-1. **Time Constraint**: "I have maybe 1-2 hours per week for learning"
-2. **Information Overload**: "Too many tutorials, not enough practical application"
-3. **Context Switching**: "Hard to apply learnings to my actual work projects"
-4. **Progress Tracking**: "I never know if I'm actually getting better"
-
-**Goals & Motivations**:
-- Stay current with rapidly evolving technology landscape
-- Advance to senior/lead developer role
-- Contribute meaningfully to open source projects
-- Build expertise in emerging technologies (AI/ML, blockchain)
-
-**Technology Stack**:
-- Languages: JavaScript, Python, Go, TypeScript
-- Frameworks: React, Node.js, Django, Docker
-- Tools: VS Code, GitHub, Slack, Jira
-- Learning: Pluralsight, YouTube, technical blogs
-
-**Decision Making Process**:
-1. **Research Phase**: 2-3 weeks evaluating options
-2. **Trial Phase**: Must have free trial or free tier
-3. **Value Assessment**: ROI based on time savings and skill development
-4. **Purchase Decision**: Often includes employer reimbursement consideration
-
-**Willingness to Pay**: $25-35/month for comprehensive platform
-**Deal Breakers**: No integration with existing tools, too time-consuming setup
-
-#### 10.1.2 Corporate L&D Persona - Michael Thompson
-
-**Demographics**:
-- Age: 42
-- Title: Director of Learning & Development
-- Company: 500-person SaaS company
-- Location: Austin, TX
-- Education: MBA, HR background
-
-**Responsibilities**:
-- $400K annual training budget management
-- 50-person development team upskilling
-- Compliance training coordination
-- ROI measurement and reporting to executive team
-
-**Pain Points**:
-1. **Budget Pressure**: "Need to show clear ROI on every training dollar"
-2. **Scale Challenge**: "Can't create custom content for every technical role"
-3. **Engagement**: "Developers don't complete generic training modules"
-4. **Measurement**: "Difficult to track actual skill improvement vs. completion"
-
-**Success Criteria**:
-- 80%+ completion rates for assigned training
-- Measurable skill improvement within 3 months
-- Cost reduction compared to external training programs
-- Positive feedback from development managers
-
-**Buying Process**:
-1. **Problem Recognition**: Q1 budget planning cycle
-2. **Solution Research**: 1-2 months vendor evaluation
-3. **Demo & Trial**: 30-90 day pilot program
-4. **Stakeholder Buy-in**: Engineering leadership approval required
-5. **Procurement**: 2-3 month implementation timeline
-
-**Budget Authority**: Up to $50K without additional approvals
-**Decision Influencers**: Engineering VPs, individual developers, HR leadership
-
-### 10.2 Competitive Feature Matrix
+### 10.1 Competitive Feature Matrix
 
 | Feature | Auto-trainer | Coursebox | Mindsmith | Synthesia | Docebo |
 |---------|--------------|-----------|-----------|-----------|---------|
